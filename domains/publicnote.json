@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "athulmenondev",
-        "email": "athulmenondev@gmail.com"
-    },
-    "records": {
-        "CNAME": "publicnote.pages.dev"
-    }
+  "owner": {
+    "username": "athulmenondev",
+    "email": "athulmenondev@gmail.com"
+  },
+  "records": {
+    "CNAME": "publicnote.pages.dev"
+  }
 }
